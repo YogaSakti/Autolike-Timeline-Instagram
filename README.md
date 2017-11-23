@@ -1,4 +1,3 @@
-# Welcome
 # How to?
 1. Tambahkan  USERNAME dan PASSWORD pada file Config.php
 2. jalankan file index.php
